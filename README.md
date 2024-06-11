@@ -1,6 +1,6 @@
 ### Olá! Eu sou Priscila Figueiredo 🖐️
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-figueiredo-b684a1215/)
-[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](figueiredopriscila14@gmail.com)
+[![Social](./https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-figueiredo-b684a1215/)
+[![Contact](./https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](figueiredopriscila14@gmail.com)
 
 
 <picture>
