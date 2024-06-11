@@ -1,3 +1,18 @@
+### Olá! Eu sou Priscila Figueiredo 🖐️
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-figueiredo-b684a1215/)
+[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](figueiredopriscila14@gmail.com)
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PriscilaFiigueiredo&show_icons=true&theme=black"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=HPriscilaFiigueiredo&show_icons=true"
+    media="(prefers-color-scheme: dark ), (prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriscilaFiigueiredo&show_icons=true" />
 </picture>
 
 <div style="display: inline_block"><br>
